@@ -1,7 +1,7 @@
 :walkthrough: Hello World Camel
 :codeready-url: https://codeready-codeready.{openshift-app-host}
 :openshift-url: {openshift-host}/console
-:next-lab-url: https://tutorial-web-app-webapp.{openshift-app-host}/tutorial/fuse-workshop-doc.git-walkthroughs-02-files-ftp/
+:next-lab-url: https://github.com/tolarewaju3/fuse-workshop-doc/blob/master/walkthroughs/02-files-ftp/walkthrough.adoc
 
 = Lab 1 - Hello World Camel
 
@@ -14,12 +14,6 @@ Let's explore a simple scenario where we are going to use a timer component to g
 ****
 * link:{codeready-url}[Console, window="_blank"]
 * link:https://developers.redhat.com/products/codeready-workspaces/overview/[Want to know more about CodeReady Workspaces?, window="_blank"]
-****
-
-[type=walkthroughResource,serviceName=openshift]
-.OpenShift Console
-****
-* link:{openshift-url}[Console, window="_blank"]
 ****
 
 [type=walkthroughResource]
