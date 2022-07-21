@@ -1,6 +1,6 @@
 :walkthrough: Hello World Camel
-:codeready-url: https://codeready-codeready.{openshift-app-host}
-:openshift-url: {openshift-host}/console
+:codeready-url: https://codeready-openshift-workspaces.apps.cluster-fvf5t.fvf5t.sandbox1900.opentlc.com/
+:openshift-url: https://console-openshift-console.apps.cluster-fvf5t.fvf5t.sandbox1900.opentlc.com/
 :next-lab-url: https://github.com/tolarewaju3/fuse-workshop-doc/blob/master/walkthroughs/02-files-ftp/walkthrough.adoc
 
 = Lab 1 - Hello World Camel
